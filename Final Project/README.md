@@ -1,5 +1,4 @@
     # STUDENT AUTOMATİON
-    #### Video Demo:  <https://youtu.be/4cLC1nAPFx4>
     #### Description:
     At the first a greeting page is welcome us and wants a action to take.
     If you haven't registered already and if you try to login you can not login becaue you don't have username and password so you need to be register first.
