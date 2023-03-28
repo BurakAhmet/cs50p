@@ -34,4 +34,4 @@
     re
     sys
 
-    I did this project mostly to improve myself about OOP copcept in python and I think it worked.
+    I did this project mostly to improve myself about OOP concept in python and I think it worked.
