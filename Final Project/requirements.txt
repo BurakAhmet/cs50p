@@ -1,4 +1,4 @@
 abc
-tabulate: pip install tabulate
+tabulate
 re
 sys
