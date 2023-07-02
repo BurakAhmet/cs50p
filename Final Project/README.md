@@ -1,4 +1,4 @@
-    # STUDENT AUTOMATİON
+    # STUDENT AUTOMATION
     #### Description:
     At the first a greeting page is welcome us and wants a action to take.
     If you haven't registered already and if you try to login you can not login becaue you don't have username and password so you need to be register first.
@@ -34,3 +34,8 @@
     sys
 
     I did this project mostly to improve myself about OOP concept in python and I think it worked.
+    
+    https://github.com/BurakAhmet/cs50p/assets/89780902/98f3d0c4-6a08-4ec9-bee7-5285ed082c52
+
+
+    
