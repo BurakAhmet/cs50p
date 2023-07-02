@@ -35,7 +35,7 @@
 
     I did this project mostly to improve myself about OOP concept in python and I think it worked.
     
-    https://github.com/BurakAhmet/cs50p/assets/89780902/98f3d0c4-6a08-4ec9-bee7-5285ed082c52
+https://github.com/BurakAhmet/cs50p/assets/89780902/98f3d0c4-6a08-4ec9-bee7-5285ed082c52
 
 
     
