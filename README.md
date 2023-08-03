@@ -1,2 +1,2 @@
 # cs50p
-This repository is for harvard's CS50p course.
+Harvard's CS50p problem solutions.
