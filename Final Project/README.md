@@ -1,5 +1,5 @@
-    # STUDENT AUTOMATION
-    #### Description:
+# STUDENT AUTOMATION
+#### Description:
     At the first a greeting page is welcome us and wants a action to take.
     If you haven't registered already and if you try to login you can not login becaue you don't have username and password so you need to be register first.
     If you enter something you shouldn't have done then program warns you and asks input again.
